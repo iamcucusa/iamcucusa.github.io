@@ -842,4 +842,8 @@ header .image-header img {
  
  .works .gallery .item .overlay {background:#29afc6}
 
+ .marker-breaker {
+     background-color: #dc3545 !important;
+ }
+
  /* ---------------------------------- END SITE ALL COLOR / BACKGROUND-------------------------------- */
